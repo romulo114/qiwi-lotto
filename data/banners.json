@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": 2,
+      "background": "url('images/ban1.jpeg') no-repeat",
+      "position": "72% 30%"
+    },
+    {
+      "type": 1,
+      "background": "url('images/ban2.jpeg') no-repeat",
+      "position": "72% 30%"
+    }
+  ]
+}
